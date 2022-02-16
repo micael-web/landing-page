@@ -179,8 +179,8 @@
   align-items: center;
   border-radius: 50%;
   color: var(--primary-color);
-  transform: (90deg);
-  border: 0.1 solid var(--primary-color);
+  transform: rotate(90deg);
+  border: 0.1rem solid var(--primary-color);
 }
 
 @media (max-width: 300px) {
